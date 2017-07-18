@@ -1,6 +1,6 @@
 return {
   name = "creationix/blake2",
-  version = "1.0.0",
+  version = "1.0.1",
   homepage = "https://github.com/creationix/blake2",
   description = "FFI bindings to the reference blake2b implementation.",
   tags = {"ffi", "hash", "crypto", "blake2"},
